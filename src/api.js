@@ -1,0 +1,1 @@
+export const baseUrl="https://expense-backend-vup5.onrender.com"
